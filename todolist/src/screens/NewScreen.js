@@ -1,10 +1,10 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-export default function HomeScreen() {
+export default function NewScreen() {
   return (
     <View>
-      <Text>Welcome Home!</Text>
+      <Text>This is New Screen</Text>
     </View>
   );
 }
